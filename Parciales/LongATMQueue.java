@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class LongATMQueue {
-
+	//Mira cuantos grupos hay en una fila frente a un ATM
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
