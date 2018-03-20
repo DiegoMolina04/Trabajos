@@ -45,7 +45,7 @@ public class URI1025 {
 
 	}
 	
-	public static int[] counting_sort(int[] unsorted)
+	public static int[] counting_sort(int[] unsorted)//Realiza una bsuqueda por Counting Sort
 	{
 		int[] sorted = new int[unsorted.length];
 		int[] aux = new int[10001];
@@ -66,7 +66,7 @@ public class URI1025 {
 		return sorted;
 	}
 	
-	public static int binary_search(int[] array, int value)
+	public static int binary_search(int[] array, int value)// Se realiza una busqueda binaria 
 	{
 		return 0;
 	}
