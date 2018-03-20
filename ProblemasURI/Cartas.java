@@ -5,7 +5,7 @@ import java.io.OutputStreamWriter;
 import java.util.Vector;
 
 public class Cartas {
-
+//Realiza el descarte de una baraja de la carta de encima y la de atras y la carta que queda la debe mostrar
 	public static void main(String[] args) {
 
 		BufferedReader br = new BufferedReader (new InputStreamReader (System.in));
