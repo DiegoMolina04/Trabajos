@@ -1,7 +1,7 @@
 import java.io.*;
 
 public class URI1022 {
-
+	//Programa que realiza operaciones entre fraccionarios
 	public static void main(String[] args) {
 		BufferedReader br = new BufferedReader( new InputStreamReader(System.in) );
 		BufferedWriter bw = new BufferedWriter( new OutputStreamWriter(System.out) );
