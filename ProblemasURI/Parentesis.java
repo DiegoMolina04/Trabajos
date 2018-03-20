@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
 public class Parentesis {
-
+	//Busca si la operacion matematica esta bien escrita
 	public static void main(String[] args) {
 		
 		BufferedReader br = new BufferedReader (new InputStreamReader (System.in));
