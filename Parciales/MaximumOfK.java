@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class MaximumOfK {
-
+	//Busca el numero mayor entre un sub grupo de arrays y los imprime 
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner (System.in);
