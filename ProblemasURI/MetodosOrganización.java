@@ -4,8 +4,8 @@ import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
-public class MetodosOrganización {
-
+public class MetodosOrganizaciÃ³n {
+	//Clase que realiza distintos metodos de organizacion
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader( new InputStreamReader(System.in) );
 		BufferedWriter bw = new BufferedWriter( new OutputStreamWriter(System.out) );
