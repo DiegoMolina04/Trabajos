@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
 public class Phone {
-
+	//Programa que guarda los numero de telefono ingresados y revisa si los numeros colocados ya estaban en un array 
 	public static void main(String[] args) {
 	
 		BufferedReader br = new BufferedReader (new InputStreamReader (System.in));
